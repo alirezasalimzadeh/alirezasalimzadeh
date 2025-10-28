@@ -2,7 +2,7 @@
   <img src="https://github.com/alirezasalimzadeh/alirezasalimzadeh/blob/master/banner.png"
     alt="Alireza · Python · Django · PostgreSQL · Redis · RabbitMQ">
 </p>
-
+<br>
 
 
 ## 💡 About Me
@@ -11,8 +11,7 @@
 - 🗄 Skilled in **PostgreSQL** and **Redis** for reliable data storage and caching  
 - 🚀 Passionate about **clean architecture**, maintainable code, and real-world problem solving  
 
-
-
+<br><br>
 
 ## 🧑‍💻 Languages & Technologies
 
@@ -34,13 +33,15 @@
 
 </div>
 
-
+<br><br>
 
 ## 📊 GitHub Stats
+<div align="center">  
+
 ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezasalimzadeh&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasalimzadeh&layout=compact&theme=radical)
-
+</div>
 
 ## 🔗 Connect with me
 <div align="center">  

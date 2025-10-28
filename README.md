@@ -1,5 +1,18 @@
 <p align="center">
   <img src="https://github.com/alirezasalimzadeh/alirezasalimzadeh/blob/master/banner.png"
+    alt="Alireza · Python · Django · PostgreSQL · Redis · RabbitMQ">
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshayrajp/tiny-assets/main/code-lines.gif" 
+       alt="Alireza Salimzadeh | Backend Developer | Python · Django · DRF · PostgreSQL · Redis · RabbitMQ">
+</p>
+
+<h3 align="center">Backend Developer | Python · Django · DRF · PostgreSQL · Redis · RabbitMQ</h3>
+
+<p align="center">
+  Passionate about scalable backend systems, clean architecture, and efficient APIs 🚀
 </p>
 
 

@@ -1,4 +1,8 @@
-## Hi there, I'm Alireza 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshayrajp/tiny-assets/main/dev-banner-dark.gif"
+       alt="Hi, I'm Alireza 👋 Backend Developer · Python · Django · DRF">
+</p>
+
 
 🎯 **Backend Developer** specialized in building scalable platforms with **Python, Django, and Django REST Framework**.  
 ⚡ Experienced in designing **RESTful APIs**, **secure authentication**, and **asynchronous task processing** with **Celery & RabbitMQ**.  

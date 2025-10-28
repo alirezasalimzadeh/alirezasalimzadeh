@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshayrajp/tiny-assets/main/code-lines.gif"
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif"
        alt="Alireza · Python · Django · PostgreSQL · Redis · RabbitMQ">
 </p>
 

@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/alirezasalimzadeh/alirezasalimzadeh/blob/master/banner.png"
     alt="Alireza · Python · Django · PostgreSQL · Redis · RabbitMQ">
@@ -63,7 +64,9 @@
 
 </div>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
 
 
 

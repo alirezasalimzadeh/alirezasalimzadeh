@@ -11,7 +11,7 @@
 - 🗄 Skilled in **PostgreSQL** and **Redis** for reliable data storage and caching  
 - 🚀 Passionate about **clean architecture**, maintainable code, and real-world problem solving  
 
-<br><br>
+<br>
 
 ## 🧑‍💻 Languages & Technologies
 
@@ -33,14 +33,13 @@
 
 </div>
 
-<br><br>
+<br>
 
 ## 📊 GitHub Stats
 <div align="center">  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasalimzadeh&layout=compact&theme=radical&card_width=900)
 
-![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezasalimzadeh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezasalimzadeh&layout=compact&theme=radical)
 </div>
 
 ## 🔗 Connect with me

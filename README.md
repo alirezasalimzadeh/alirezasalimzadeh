@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshayrajp/tiny-assets/main/dev-banner-dark.gif"
-       alt="Hi, I'm Alireza 👋 Backend Developer · Python · Django · DRF">
+  <img src="https://raw.githubusercontent.com/akshayrajp/tiny-assets/main/code-lines.gif"
+       alt="Alireza · Python · Django · PostgreSQL · Redis · RabbitMQ">
 </p>
+
 
 
 🎯 **Backend Developer** specialized in building scalable platforms with **Python, Django, and Django REST Framework**.  
